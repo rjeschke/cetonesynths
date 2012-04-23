@@ -17,4 +17,4 @@ No VST host? Get one (IMHO the best) here:
 http://www.cantabilesoftware.com/lite/
 
 ---
-Ren� Jeschke <rene_jeschke@yahoo.de>
+René Jeschke <rene_jeschke@yahoo.de>
